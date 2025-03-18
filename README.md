@@ -1,7 +1,7 @@
 🌿 Welcome to My GitHub Profile!
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3DDC84&center=true&width=450&lines=Scientific+Researcher+%7C+Microbiologist;Plant+Science+%7C+Bioinformatics;Passionate+about+Data+and+Innovation" alt="Typing SVG" /> </p>
 👨‍🔬 About Me
-Scientific Researcher | Microbiologist | Plant Science Enthusiast | 📊 Data Analyst
+Scientific Researcher|Microbiologist|Plant Science Enthusiast|📊Data Analyst
 
 I specialize in studying microorganisms, plant-microbe interactions, and computational biology. My expertise includes bioinformatics, data analysis, and programming for biological research.
 
